@@ -80,7 +80,7 @@ form button {
 }
 
 .btn {
-  background-color: #8d56fd;
+  background-color: #096f9e;
   border: 0;
   border-radius: 10px;
   color: #fff;
@@ -95,7 +95,7 @@ ul.songs {
 ul.songs li {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   margin: 10px 0;
 }
 
